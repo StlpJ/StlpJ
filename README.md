@@ -1,5 +1,7 @@
-<h1 align="center">Jujjuuu here 👋</h1>
+<img width="977" height="160" alt="Image" src="https://github.com/user-attachments/assets/95a033ca-3cd6-4c08-b99e-5763c1981365" />
+<h1 align="center">/* Jujjuuu here */</h1>
 <h3 align="center">A Full-stack developper in learning !</h3>
+
                                                                   
                                                                   
 - 🌱 I’m currently learning **React**
