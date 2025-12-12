@@ -4,7 +4,7 @@
 
                                                                   
                                                                   
-- 🌱 I’m currently learning **React**
+- 🧙‍♂️ Currently learning **React**
 
 - ⚡ Fun fact **I play music**
 
