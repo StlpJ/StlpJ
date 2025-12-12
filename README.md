@@ -1,5 +1,5 @@
 <img width="977" height="160" alt="Image" src="https://github.com/user-attachments/assets/95a033ca-3cd6-4c08-b99e-5763c1981365" />
-<h1 align="center">/* Jujjuuu here */</h1>
+<h1 align="center">-- Jujjuuu here --</h1>
 <h3 align="center">A Full-stack developper in learning !</h3>
 
                                                                   
@@ -8,8 +8,11 @@
 
 - ⚡ Fun fact **I play music**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🕸️ Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/julien-paultes/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/julien-paultes/" height="25" width="25" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
