@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact **I play music**
 
+-  📫 How to reach me **julpaultes@gmail.com**
+
 <h3 align="left">🕸️ Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/julien-paultes/" target="blank">
