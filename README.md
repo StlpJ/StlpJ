@@ -14,7 +14,7 @@
 
   
 <a href="https://www.linkedin.com/in/julien-paultes/" target="blank">
-<strong>Connect with me :) </strong>
+<strong>Connect with me : </strong>
 <br />
 <br />
 <br />
