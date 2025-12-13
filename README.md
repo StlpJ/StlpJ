@@ -13,7 +13,7 @@
 📫 How to reach me **julpaultes@gmail.com**
 
   
-<a href="https://www.linkedin.com/in/julien-paultes/" target="blank">
+<a href="https://www.linkedin.com/in/julien-paultes/" target="_blank">
 <strong>Connect with me :) </strong>
 <br />
 <br />
