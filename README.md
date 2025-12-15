@@ -69,7 +69,8 @@
 
 
 
+<img src="https://komarev.com/ghpvc/?username=StlpJ&label=Profile%20views&color=0e75b6&style=flat" alt="StlpJ" />
+<br/>
 <img src= "https://github.com/user-attachments/assets/e74efa50-c853-445c-8d88-e2b47a4cd136" />
-
 </div>
 
