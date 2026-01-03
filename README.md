@@ -21,7 +21,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src= "https://github.com/user-attachments/assets/7160bfc6-e7c1-453b-ab0e-c5ca0e9180c6" target="_blank"/>
+<img alt="Globe" height="80" src= "https://github.com/user-attachments/assets/7160bfc6-e7c1-453b-ab0e-c5ca0e9180c6" target="_blank" href="https://www.linkedin.com/in/julien-paultes/"/>
 </a>
 </div>
 
